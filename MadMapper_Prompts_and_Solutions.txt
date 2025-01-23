@@ -1,0 +1,82 @@
+
+# 20 MadMapper Prompts and Solutions
+
+## 1. Architectural Projection Mapping
+**Prompt:** Create a projection mapping setup for a multi-story building using MadMapper, ensuring proper alignment of visuals.  
+**Solution:** Use the *Surface Mapping* tool to divide building features into individual surfaces, apply masks for windows and doors, and sync animations with music using MIDI triggers.
+
+## 2. Interactive Art Installation
+**Prompt:** Design an interactive projection that reacts to sound for an art installation.  
+**Solution:** Use the *Audio Analysis* tool in MadMapper to map audio frequencies to visual parameters, such as brightness or speed of visuals.
+
+## 3. 3D Object Mapping
+**Prompt:** Map visuals onto a rotating 3D sculpture using MadMapper.  
+**Solution:** Use *3D Calibration* to align the visuals with the object, and control animations with the *Cue* feature to match the rotation speed.
+
+## 4. Stage Design for Concerts
+**Prompt:** Build a dynamic projection setup for a concert stage with synchronized lighting.  
+**Solution:** Use the *DMX Control* feature in MadMapper to sync lighting effects with video projections and integrate it with the stage's audio system.
+
+## 5. Interactive Floor Projection
+**Prompt:** Set up an interactive floor projection that responds to movement.  
+**Solution:** Use a depth-sensing camera like Kinect or an IR sensor to track movements and connect it to MadMapper’s *OSC Input* for triggering visuals.
+
+## 6. Projection on Moving Objects
+**Prompt:** Create visuals that follow a dancer wearing a costume embedded with projection surfaces.  
+**Solution:** Use a motion tracking system (e.g., OptiTrack) integrated with MadMapper’s *Spout Input* to map projections in real-time.
+
+## 7. Architectural Light Mapping
+**Prompt:** Map architectural lighting for a building’s facade using MadMapper.  
+**Solution:** Use *Light Fixtures* to control DMX-compatible LED lights and synchronize them with projected visuals for cohesive effects.
+
+## 8. Large-Scale Projection Mapping
+**Prompt:** Design a projection setup for a 50-meter outdoor wall using multiple projectors.  
+**Solution:** Use MadMapper’s *Multi-Output* feature to blend visuals seamlessly across multiple projectors and ensure proper alignment with *Warping Tools*.
+
+## 9. Real-Time Data Visualization
+**Prompt:** Create a projection that displays real-time stock market data.  
+**Solution:** Use *Syphon/Spout Input* to fetch real-time data visuals from external applications and map them onto a projection surface.
+
+## 10. Projection for VR Experiences
+**Prompt:** Combine VR and projection mapping for an immersive experience.  
+**Solution:** Use MadMapper’s *Live Input* feature to mirror VR visuals onto a physical surface, ensuring accurate perspective alignment.
+
+## 11. Festival Stage Backdrops
+**Prompt:** Design a high-energy visual backdrop for a music festival.  
+**Solution:** Use MadMapper’s *Cue Sequencer* to cycle through dynamic visuals and audio-reactive effects, syncing with live DJ sets via MIDI.
+
+## 12. Projection for Theatrical Performances
+**Prompt:** Create dynamic backdrops for a play that change with the scenes.  
+**Solution:** Use *Cues* and *Timers* to automate backdrop changes, and map different visuals to surfaces corresponding to the stage's physical layout.
+
+## 13. Immersive Dome Projection
+**Prompt:** Set up projection mapping for a 360° dome experience.  
+**Solution:** Use MadMapper’s *360 Mapping* feature to stitch visuals seamlessly, and ensure proper alignment using fisheye lens correction.
+
+## 14. Projection on Uneven Surfaces
+**Prompt:** Map visuals onto a rocky surface for an outdoor event.  
+**Solution:** Use *Surface Mapping* to create custom masks for uneven textures and adjust brightness and contrast to match the surface’s natural contours.
+
+## 15. Customizable DJ Booth Projections
+**Prompt:** Design a DJ booth with dynamic, beat-synced projections.  
+**Solution:** Use *Audio Input* for real-time audio-reactive effects, and map visuals directly onto the booth's geometric surfaces.
+
+## 16. Interactive Museum Exhibits
+**Prompt:** Set up an interactive projection for a museum exhibit that responds to visitor presence.  
+**Solution:** Use *OSC Input* or *Kinect Integration* to detect presence and trigger visuals that align with exhibit themes.
+
+## 17. Projection for Corporate Events
+**Prompt:** Create branded projection visuals for a corporate event stage.  
+**Solution:** Use *Text Generators* in MadMapper to display dynamic company logos, taglines, and announcements synced with event timelines.
+
+## 18. LED Strip Mapping
+**Prompt:** Map LED strips to simulate a flowing water effect on a staircase.  
+**Solution:** Use *Light Fixtures* in MadMapper to control LED strips via DMX or Art-Net, applying gradient animations for the flowing effect.
+
+## 19. Projection for Small Objects
+**Prompt:** Map visuals onto a rotating globe for an educational display.  
+**Solution:** Use *3D Object Mapping* and rotation tracking tools to align projections with the globe’s rotation.
+
+## 20. Holiday Light Show
+**Prompt:** Design a holiday-themed projection and light display for a public square.  
+**Solution:** Sync DMX lights with festive visuals using MadMapper’s *Cue* and *Sequencing* tools, and incorporate snow or fireworks effects for added flair.
