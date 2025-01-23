@@ -1,0 +1,82 @@
+
+# 20 Cloud Architect Prompts and Solutions
+
+## 1. Hybrid Cloud Integration
+**Prompt:** Design a hybrid cloud architecture to integrate on-premises resources with Azure while ensuring secure data exchange.  
+**Solution:** Use Azure Arc for managing on-premises resources, Azure VPN Gateway for secure connectivity, and Azure Blob Storage for hybrid data sharing.
+
+## 2. Disaster Recovery Planning
+**Prompt:** Create a disaster recovery plan for a critical application hosted in AWS.  
+**Solution:** Use AWS Elastic Disaster Recovery (AWS DRS), set up cross-region replication for Amazon S3 and RDS, and automate failover with Route 53.
+
+## 3. Multi-Tenant SaaS Architecture
+**Prompt:** Build a multi-tenant SaaS solution on GCP with tenant isolation and cost-efficiency.  
+**Solution:** Use Kubernetes namespaces for isolation, Cloud SQL for separate tenant databases, and billing via GCP's Billing APIs.
+
+## 4. Event-Driven System
+**Prompt:** Architect an event-driven system for a payment processing platform on AWS.  
+**Solution:** Use Amazon SQS for messaging, AWS Lambda for event processing, and DynamoDB for real-time transactional data storage.
+
+## 5. CI/CD Pipeline
+**Prompt:** Design a secure CI/CD pipeline for a containerized application on Azure.  
+**Solution:** Use Azure DevOps for CI/CD, integrate Azure Container Registry (ACR), and secure deployments with Azure Policy and Key Vault.
+
+## 6. Cost Optimization
+**Prompt:** Optimize costs for a high-traffic e-commerce website running on AWS.  
+**Solution:** Leverage AWS Auto Scaling, use S3 Intelligent-Tiering for storage, and enable Compute Savings Plans.
+
+## 7. Serverless Data Processing
+**Prompt:** Architect a serverless pipeline for processing IoT sensor data on AWS.  
+**Solution:** Use AWS IoT Core for ingestion, AWS Lambda for processing, and Amazon Kinesis Firehose to store data in S3 or Redshift.
+
+## 8. Secure API Gateway
+**Prompt:** Build a scalable, secure API gateway for a fintech application on GCP.  
+**Solution:** Use Google Cloud Endpoints, secure APIs with OAuth2, and enforce quotas and rate limits.
+
+## 9. Real-Time Streaming
+**Prompt:** Design a real-time video streaming service on AWS.  
+**Solution:** Use Amazon CloudFront with a video streaming solution like AWS Elemental Media Services.
+
+## 10. Data Lake Architecture
+**Prompt:** Build a scalable data lake on Azure for processing and querying petabytes of unstructured data.  
+**Solution:** Use Azure Data Lake Storage Gen2, integrate with Azure Synapse Analytics, and use Databricks for processing.
+
+## 11. Compliance and Governance
+**Prompt:** Enforce cloud compliance policies for a healthcare application on AWS (HIPAA requirements).  
+**Solution:** Use AWS Config for compliance monitoring, encrypt data with KMS, and enforce IAM roles for least-privilege access.
+
+## 12. Multi-Cloud Strategy
+**Prompt:** Design a multi-cloud strategy to avoid vendor lock-in while ensuring high availability.  
+**Solution:** Use Terraform for multi-cloud resource management, replicate data with multi-region setups across AWS and Azure, and implement cloud-neutral services like Kubernetes.
+
+## 13. Machine Learning Pipeline
+**Prompt:** Architect an ML pipeline on GCP for a recommendation system.  
+**Solution:** Use Vertex AI for ML workflows, integrate BigQuery ML for training models, and deploy models with Cloud Run.
+
+## 14. High-Performance Computing
+**Prompt:** Design a high-performance computing (HPC) cluster for genomics analysis on AWS.  
+**Solution:** Use AWS ParallelCluster, EC2 Spot Instances for cost efficiency, and FSx for Lustre for high-performance file storage.
+
+## 15. Auto Scaling Architecture
+**Prompt:** Enable auto-scaling for a media streaming app hosted on Azure.  
+**Solution:** Use Azure VM Scale Sets with Load Balancers, integrate with Azure Monitor for scaling triggers, and cache content with Azure CDN.
+
+## 16. Identity and Access Management
+**Prompt:** Securely manage user identities for a SaaS application on AWS.  
+**Solution:** Use AWS Cognito for user authentication and integrate with IAM for role-based access.
+
+## 17. Log Aggregation and Monitoring
+**Prompt:** Set up centralized logging and monitoring for a distributed application on GCP.  
+**Solution:** Use Cloud Logging and Monitoring, deploy logs to BigQuery for analysis, and set up alerts with Cloud Operations Suite.
+
+## 18. Cloud-Native DevOps
+**Prompt:** Implement a cloud-native DevOps workflow for a containerized app on AWS.  
+**Solution:** Use Amazon EKS, AWS CodePipeline, CodeBuild for CI/CD, and observability with CloudWatch.
+
+## 19. Edge Computing for IoT
+**Prompt:** Design an edge computing solution for IoT data processing on Azure.  
+**Solution:** Use Azure IoT Edge for local processing, Azure Stream Analytics for real-time analytics, and Azure Digital Twins for IoT management.
+
+## 20. AI-Powered Chatbot
+**Prompt:** Deploy an AI-powered chatbot using AWS cloud services.  
+**Solution:** Use Amazon Lex for NLP, Lambda for backend logic, and DynamoDB for storing conversation states.
