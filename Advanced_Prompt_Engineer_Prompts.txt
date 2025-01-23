@@ -1,0 +1,63 @@
+
+Advanced Prompt Engineer Prompts and Results
+
+1. Artificial Intelligence
+- Prompt: "Develop a Python function using TensorFlow to classify images of cats and dogs with 90%+ accuracy."
+- Result: A TensorFlow-based script that preprocesses images, builds a convolutional neural network, trains the model, and evaluates its accuracy.
+
+2. Cybersecurity
+- Prompt: "Write a script to detect and prevent SQL injection attacks in a web application."
+- Result: A Python script that uses input sanitization, parameterized queries, and logging to secure web application forms.
+
+3. Problem-Solving: Optimization
+- Prompt: "Solve a traveling salesman problem for 10 cities using the genetic algorithm."
+- Result: A Python implementation of the genetic algorithm to find the shortest path through 10 cities, complete with visualizations of the optimization process.
+
+4. Robotics
+- Prompt: "Design a control system for a robotic arm to pick and place objects using inverse kinematics."
+- Result: A detailed Python script and explanation using inverse kinematics principles, complete with a simulated robotic arm.
+
+5. Finance: Quantitative Analysis
+- Prompt: "Write a Python script to calculate the Sharpe Ratio of a stock portfolio."
+- Result: A script that pulls stock data from an API, calculates portfolio returns, standard deviation, and Sharpe Ratio.
+
+6. Healthcare
+- Prompt: "Generate a chatbot script to triage patients based on their symptoms."
+- Result: A decision-tree-based chatbot script that asks questions and provides a preliminary diagnosis or recommends seeing a doctor.
+
+7. Data Science: Predictive Modeling
+- Prompt: "Build a predictive model to forecast housing prices using regression analysis."
+- Result: A Python notebook that imports data, preprocesses it, trains a regression model, and evaluates its performance.
+
+8. Education
+- Prompt: "Create a step-by-step plan to teach high school students the basics of coding in Python."
+- Result: A 4-week curriculum covering variables, loops, conditionals, and basic projects, including hands-on coding exercises.
+
+9. Problem-Solving: Logical Reasoning
+- Prompt: "Write a program to solve Sudoku puzzles using backtracking."
+- Result: A Python implementation of the backtracking algorithm to solve any given Sudoku puzzle.
+
+10. Natural Language Processing
+- Prompt: "Develop a Python script to summarize long articles into 100 words using NLP techniques."
+- Result: A script that uses libraries like spaCy or NLTK to tokenize, analyze sentence importance, and generate concise summaries.
+
+11. Gaming
+- Prompt: "Create an algorithm to dynamically adjust the difficulty of a game based on the player's performance."
+- Result: A function that tracks player performance metrics and adjusts game parameters like enemy AI or resource availability in real-time.
+
+12. Problem-Solving: Algorithm Design
+- Prompt: "Design an algorithm to find the shortest path in a weighted graph."
+- Result: A Python implementation of Dijkstra's algorithm with a priority queue for optimal performance.
+
+13. Climate Science
+- Prompt: "Analyze temperature data to predict future climate trends using machine learning."
+- Result: A Python notebook utilizing time-series analysis and machine learning models to predict temperature trends.
+
+14. Cryptography
+- Prompt: "Implement RSA encryption and decryption in Python."
+- Result: A Python script that generates keys, encrypts a message, and decrypts it using the RSA algorithm.
+
+15. Problem-Solving: Dynamic Programming
+- Prompt: "Write a dynamic programming solution to the knapsack problem."
+- Result: A Python implementation that solves the 0/1 knapsack problem with optimal substructure and overlapping subproblems.
+
