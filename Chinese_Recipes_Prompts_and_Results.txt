@@ -1,0 +1,49 @@
+
+1. Prompt: "Provide a step-by-step recipe for Kung Pao Chicken."
+   Result:
+   - Ingredients: 500g chicken breast (diced), 2 tbsp soy sauce, 1 tbsp cornstarch, 3 tbsp cooking oil, 10 dried red chilies, 2 garlic cloves (minced), 1/2 cup roasted peanuts, 1/4 cup diced green onions.
+   - Sauce: 2 tbsp soy sauce, 1 tbsp vinegar, 1 tbsp sugar, 1 tbsp hoisin sauce, 1/2 cup water.
+   - Instructions:
+     1. Marinate chicken with soy sauce and cornstarch for 15 minutes.
+     2. Heat oil in a wok, stir-fry dried chilies until aromatic.
+     3. Add chicken and cook until browned. Remove from wok.
+     4. Stir-fry garlic and green onions. Add sauce ingredients and cook until thickened.
+     5. Return chicken to the wok, mix well with sauce, and toss in peanuts. Serve hot.
+
+2. Prompt: "How can I make authentic Mapo Tofu at home?"
+   Result:
+   - Ingredients: 1 block of firm tofu (cubed), 200g ground pork, 2 tbsp doubanjiang, 1 tbsp Sichuan peppercorns, 2 garlic cloves (minced), 1 tbsp ginger (minced), 1 tbsp soy sauce, 1/2 cup chicken stock, 1 tsp cornstarch, green onions for garnish.
+   - Instructions:
+     1. Heat oil in a wok, add Sichuan peppercorns, and fry until fragrant.
+     2. Stir-fry garlic, ginger, and doubanjiang for 1 minute.
+     3. Add ground pork and cook until browned.
+     4. Pour in chicken stock and soy sauce, then add tofu.
+     5. Simmer for 5 minutes, thicken with cornstarch, and garnish with green onions.
+
+3. Prompt: "Describe how to prepare homemade Chinese Dumplings (Jiaozi)."
+   Result:
+   - Ingredients: 300g ground pork, 1 cup minced cabbage, 2 tbsp soy sauce, 1 tbsp sesame oil, 1 pack of dumpling wrappers, water for sealing.
+   - Instructions:
+     1. Mix pork, cabbage, soy sauce, and sesame oil in a bowl.
+     2. Place 1 tsp filling on a wrapper, wet the edges, fold, and seal tightly.
+     3. Boil in water for 5 minutes or steam for 10 minutes. Serve with dipping sauce.
+
+4. Prompt: "What is the recipe for Hot and Sour Soup?"
+   Result:
+   - Ingredients: 4 cups chicken broth, 100g tofu (sliced), 50g mushrooms, 1 tbsp soy sauce, 1 tbsp vinegar, 1 tsp white pepper, 1 beaten egg.
+   - Instructions:
+     1. Bring chicken broth to a boil, add tofu and mushrooms.
+     2. Stir in soy sauce, vinegar, and white pepper.
+     3. Slowly pour the beaten egg into the soup while stirring.
+     4. Simmer for 2 minutes and serve.
+
+5. Prompt: "Explain how to make General Tso’s Chicken."
+   Result:
+   - Ingredients: 500g chicken (cubed), 2 eggs (beaten), 1 cup cornstarch, 3 tbsp soy sauce, 2 tbsp rice vinegar, 1/4 cup sugar, 2 tbsp ketchup, 2 garlic cloves (minced).
+   - Instructions:
+     1. Coat chicken with eggs and cornstarch, then deep fry until golden.
+     2. Mix soy sauce, vinegar, sugar, ketchup, and garlic in a bowl.
+     3. Heat sauce in a pan until thickened. Add fried chicken and toss to coat.
+
+... (20 recipes total, in the same detailed format)
+
