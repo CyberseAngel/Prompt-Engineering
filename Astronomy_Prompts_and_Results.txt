@@ -1,0 +1,60 @@
+
+1. Prompt: "Describe the surface of Mars and its most notable features."
+   Result: A detailed description of Mars, mentioning red dust, craters, valleys, Olympus Mons, and Valles Marineris.
+
+2. Prompt: "Explain how black holes form and what happens to nearby matter."
+   Result: A clear explanation of stellar collapse, the event horizon, and matter being drawn into the accretion disk.
+
+3. Prompt: "What makes the Milky Way galaxy unique compared to others?"
+   Result: Details on the Milky Way’s spiral structure, galactic core, and the Solar System’s location.
+
+4. Prompt: "List the differences between terrestrial and gas giant planets."
+   Result: A comparison of solid surfaces, atmospheres, composition, and examples like Earth and Jupiter.
+
+5. Prompt: "How do neutron stars differ from regular stars?"
+   Result: An explanation of dense stellar remnants, extreme gravity, and unique properties like pulsars.
+
+6. Prompt: "Explain the lifecycle of a star like the Sun."
+   Result: Steps from nebula to main sequence, red giant, planetary nebula, and white dwarf.
+
+7. Prompt: "What causes the Northern and Southern Lights?"
+   Result: The role of solar winds, Earth’s magnetic field, and ionized particles creating auroras.
+
+8. Prompt: "How does the Hubble Space Telescope help astronomers?"
+   Result: Information on Hubble’s imaging of distant galaxies, stars, and exoplanets.
+
+9. Prompt: "Describe the significance of the James Webb Space Telescope."
+   Result: Its ability to observe infrared light, study early galaxies, and detect exoplanet atmospheres.
+
+10. Prompt: "What are exoplanets, and how are they detected?"
+    Result: Planets orbiting other stars, detected via transit method, radial velocity, and direct imaging.
+
+11. Prompt: "What are quasars, and why are they important in astronomy?"
+    Result: Bright active galactic nuclei powered by supermassive black holes.
+
+12. Prompt: "How does dark matter influence galaxy formation?"
+    Result: The unseen mass shaping gravitational structure and formation of galaxies.
+
+13. Prompt: "What is the role of supernovae in the universe?"
+    Result: Spreading heavy elements and triggering star formation.
+
+14. Prompt: "Explain how gravitational waves are detected."
+    Result: Details on LIGO, ripples in spacetime, and events like black hole mergers.
+
+15. Prompt: "What are the differences between spiral and elliptical galaxies?"
+    Result: Comparison of shapes, star populations, and examples.
+
+16. Prompt: "What is the significance of the cosmic microwave background radiation?"
+    Result: Evidence of the Big Bang and details about early universe conditions.
+
+17. Prompt: "Describe the moons of Jupiter and their unique features."
+    Result: Details on Io’s volcanoes, Europa’s ice crust, and Ganymede’s size.
+
+18. Prompt: "What are the challenges of sending humans to Mars?"
+    Result: Mention of distance, radiation, life support, and technology requirements.
+
+19. Prompt: "How do eclipses occur, and what types are there?"
+    Result: Explanation of solar and lunar eclipses, including partial and total varieties.
+
+20. Prompt: "What are the differences between comets, asteroids, and meteoroids?"
+    Result: A clear differentiation of composition, origin, and size.
